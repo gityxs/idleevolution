@@ -1,0 +1,21 @@
+Water/+/http://en.wikipedia.org/wiki/Water
+Nitrogen dioxide/+/http://en.wikipedia.org/wiki/Nitrogen_dioxide
+Ammonia/+/http://en.wikipedia.org/wiki/Ammonia
+Nitric acid/+/http://en.wikipedia.org/wiki/Nitric_acid
+Hydrochloric acid/+/http://en.wikipedia.org/wiki/Hydrochloric_acid
+Carbon dioxide/+/http://en.wikipedia.org/wiki/Carbon_dioxide
+Sulfur dioxide/+/http://en.wikipedia.org/wiki/Sulfur_dioxide
+Sulfuric acid/+/http://en.wikipedia.org/wiki/Sulfuric_acid
+Silane/+/http://en.wikipedia.org/wiki/Silane
+Gallium arsenide/+/http://en.wikipedia.org/wiki/Gallium_arsenide
+Aluminium hydroxide/+/http://en.wikipedia.org/wiki/Aluminium_hydroxide
+Sodium hydroxide/+/http://en.wikipedia.org/wiki/Sodium_hydroxide
+Potassium hydroxide/+/http://en.wikipedia.org/wiki/Potassium_hydroxide
+Sodium chloride/+/http://en.wikipedia.org/wiki/Sodium_chloride
+Sodium bicarbonate/+/http://en.wikipedia.org/wiki/Sodium_bicarbonate
+Potassium nitrate/+/http://en.wikipedia.org/wiki/Potassium_nitrate
+Calcium chloride/+/http://en.wikipedia.org/wiki/Calcium_chloride
+Calcium carbonate/+/http://en.wikipedia.org/wiki/Calcium_carbonate
+Iron(III) oxide/+/http://en.wikipedia.org/wiki/Iron%28III%29_oxide
+Copper(II) sulfate/+/http://en.wikipedia.org/wiki/Copper%28II%29_sulfate
+Auric chloride/+/http://en.wikipedia.org/wiki/Gold%28III%29_chloride
