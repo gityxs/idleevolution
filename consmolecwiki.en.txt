@@ -1,21 +1,21 @@
-Water/+/http://en.wikipedia.org/wiki/Water
-Nitrogen dioxide/+/http://en.wikipedia.org/wiki/Nitrogen_dioxide
-Ammonia/+/http://en.wikipedia.org/wiki/Ammonia
-Nitric acid/+/http://en.wikipedia.org/wiki/Nitric_acid
-Hydrochloric acid/+/http://en.wikipedia.org/wiki/Hydrochloric_acid
-Carbon dioxide/+/http://en.wikipedia.org/wiki/Carbon_dioxide
-Sulfur dioxide/+/http://en.wikipedia.org/wiki/Sulfur_dioxide
-Sulfuric acid/+/http://en.wikipedia.org/wiki/Sulfuric_acid
-Silane/+/http://en.wikipedia.org/wiki/Silane
-Gallium arsenide/+/http://en.wikipedia.org/wiki/Gallium_arsenide
-Aluminium hydroxide/+/http://en.wikipedia.org/wiki/Aluminium_hydroxide
-Sodium hydroxide/+/http://en.wikipedia.org/wiki/Sodium_hydroxide
-Potassium hydroxide/+/http://en.wikipedia.org/wiki/Potassium_hydroxide
-Sodium chloride/+/http://en.wikipedia.org/wiki/Sodium_chloride
-Sodium bicarbonate/+/http://en.wikipedia.org/wiki/Sodium_bicarbonate
-Potassium nitrate/+/http://en.wikipedia.org/wiki/Potassium_nitrate
-Calcium chloride/+/http://en.wikipedia.org/wiki/Calcium_chloride
-Calcium carbonate/+/http://en.wikipedia.org/wiki/Calcium_carbonate
-Iron(III) oxide/+/http://en.wikipedia.org/wiki/Iron%28III%29_oxide
-Copper(II) sulfate/+/http://en.wikipedia.org/wiki/Copper%28II%29_sulfate
-Auric chloride/+/http://en.wikipedia.org/wiki/Gold%28III%29_chloride
+水/+/http://en.wikipedia.org/wiki/Water
+二氧化氮/+/http://en.wikipedia.org/wiki/Nitrogen_dioxide
+氨/+/http://en.wikipedia.org/wiki/Ammonia
+硝酸/+/http://en.wikipedia.org/wiki/Nitric_acid
+盐酸/+/http://en.wikipedia.org/wiki/Hydrochloric_acid
+二氧化碳/+/http://en.wikipedia.org/wiki/Carbon_dioxide
+二氧化硫/+/http://en.wikipedia.org/wiki/Sulfur_dioxide
+硫酸/+/http://en.wikipedia.org/wiki/Sulfuric_acid
+硅烷/+/http://en.wikipedia.org/wiki/Silane
+砷化镓/+/http://en.wikipedia.org/wiki/Gallium_arsenide
+氢氧化铝/+/http://en.wikipedia.org/wiki/Aluminium_hydroxide
+氢氧化钠/+/http://en.wikipedia.org/wiki/Sodium_hydroxide
+氢氧化钾/+/http://en.wikipedia.org/wiki/Potassium_hydroxide
+氯化钠/+/http://en.wikipedia.org/wiki/Sodium_chloride
+碳酸氢钠/+/http://en.wikipedia.org/wiki/Sodium_bicarbonate
+硝酸钾/+/http://en.wikipedia.org/wiki/Potassium_nitrate
+氯化钙/+/http://en.wikipedia.org/wiki/Calcium_chloride
+碳酸钙/+/http://en.wikipedia.org/wiki/Calcium_carbonate
+氧化铁/+/http://en.wikipedia.org/wiki/Iron%28III%29_oxide
+硫酸铜/+/http://en.wikipedia.org/wiki/Copper%28II%29_sulfate
+氯化金/+/http://en.wikipedia.org/wiki/Gold%28III%29_chloride
