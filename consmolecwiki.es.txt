@@ -1,0 +1,21 @@
+﻿Agua/+/http://es.wikipedia.org/wiki/Agua
+Dióxido de nitrógeno/+/http://es.wikipedia.org/wiki/Di%C3%B3xido_de_nitr%C3%B3geno
+Amoníaco/+/http://es.wikipedia.org/wiki/Amon%C3%ADaco
+Ácido nítrico/+/http://es.wikipedia.org/wiki/%C3%81cido_n%C3%ADtrico
+Ácido clorhídrico/+/http://es.wikipedia.org/wiki/%C3%81cido_clorh%C3%ADdrico
+Dióxido de carbono/+/http://es.wikipedia.org/wiki/Di%C3%B3xido_de_carbono
+Dióxido de azufre/+/http://es.wikipedia.org/wiki/Di%C3%B3xido_de_azufre
+Ácido sulfúrico/+/http://es.wikipedia.org/wiki/%C3%81cido_sulf%C3%BArico
+Silano/+/http://es.wikipedia.org/wiki/Silano
+Arseniuro de galio/+/http://es.wikipedia.org/wiki/Arseniuro_de_galio
+Hidróxido de aluminio/+/http://es.wikipedia.org/wiki/Hidr%C3%B3xido_de_aluminio
+Hidróxido de sodio/+/http://es.wikipedia.org/wiki/Hidr%C3%B3xido_de_sodio
+Hidróxido de potasio/+/http://es.wikipedia.org/wiki/Hidr%C3%B3xido_de_potasio
+Cloruro de sodio/+/http://es.wikipedia.org/wiki/Cloruro_de_sodio
+Bicarbonato de sodio/+/http://es.wikipedia.org/wiki/Bicarbonato_de_sodio
+Nitrato de potasio/+/http://es.wikipedia.org/wiki/Nitrato_de_potasio
+Cloruro de calcio/+/http://es.wikipedia.org/wiki/Cloruro_de_calcio
+Carbonato de calcio/+/http://es.wikipedia.org/wiki/Carbonato_de_calcio
+Óxido de hierro (III)/+/http://es.wikipedia.org/wiki/%C3%93xido_de_hierro_%28III%29
+Sulfato de cobre (II)/+/http://es.wikipedia.org/wiki/Sulfato_de_cobre_%28II%29
+Cloruro de oro/+/http://en.wikipedia.org/wiki/Gold%28III%29_chloride
