@@ -1,0 +1,21 @@
+﻿Aigua/+/http://ca.wikipedia.org/wiki/Aigua
+Diòxid de nitrogen/+/http://ca.wikipedia.org/wiki/Di%C3%B2xid_de_nitrogen
+Amoníac/+/http://ca.wikipedia.org/wiki/Amon%C3%ADac
+Àcid nítric/+/http://ca.wikipedia.org/wiki/%C3%80cid_n%C3%ADtric
+Àcid clorhídric/+/http://ca.wikipedia.org/wiki/%C3%80cid_clorh%C3%ADdric
+Diòxid de carboni/+/http://ca.wikipedia.org/wiki/Di%C3%B2xid_de_carboni
+Diòxid de sofre/+/http://ca.wikipedia.org/wiki/Di%C3%B2xid_de_sofre
+Àcid sulfúric/+/http://ca.wikipedia.org/wiki/%C3%80cid_sulf%C3%BAric
+Silà/+/http://ca.wikipedia.org/wiki/Sil%C3%A0_%28h%C3%ADbrid%29
+Arsenur de gal·li/+/http://ca.wikipedia.org/wiki/Arsenur_de_gal%C2%B7li
+Hidròxid d'alumini/+/http://ca.wikipedia.org/wiki/Hidr%C3%B2xid_d%27alumini
+Hidròxid de sodi/+/http://ca.wikipedia.org/wiki/Hidr%C3%B2xid_de_sodi
+Hidròxid de potassi/+/http://ca.wikipedia.org/wiki/Hidr%C3%B2xid_de_potassi
+Clorur de sodi/+/http://ca.wikipedia.org/wiki/Clorur_de_sodi
+Bicarbonat de sodi/+/http://ca.wikipedia.org/wiki/Bicarbonat_de_sodi
+Nitrat de potassi/+/http://ca.wikipedia.org/wiki/Nitrat_de_potassi
+Clorur de calci/+/http://ca.wikipedia.org/wiki/Clorur_de_calci
+Carbonat de calci/+/http://ca.wikipedia.org/wiki/Carbonat_de_calci
+Òxid de ferro (III)/+/http://ca.wikipedia.org/wiki/%C3%92xids_de_ferro
+Sulfat de coure (II)/+/http://ca.wikipedia.org/wiki/Sulfat_de_coure_%28II%29
+Clorur d'or/+/http://ca.wikipedia.org/wiki/Clorur_d%27or%28III%29
